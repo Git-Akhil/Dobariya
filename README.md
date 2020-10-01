@@ -1,2 +1,0 @@
-# Dobariya
-text2
